@@ -1,3 +1,4 @@
+HEAD
 # Trailmate
 
 UTS Pemrograman Web 2026, NIM 252410102092.
@@ -36,3 +37,6 @@ php artisan serve
 ```
 
 Buka `http://127.0.0.1:8000`. Tes alur halaman dijalankan dengan `php artisan test`.
+=======
+# UTS_PWEB_252410102092
+>>>>>>> bd22c40f3e63f8017f35e129dcaa85610b528829
