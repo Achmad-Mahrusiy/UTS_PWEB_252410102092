@@ -75,6 +75,11 @@ nav {
     gap: 0.25rem 2.25rem;
 }
 
+.navbar .tombol-garis {
+    padding: 0.35rem 1.1rem;
+    font-size: 0.95rem;
+}
+
 nav a {
     padding: 0.4rem 0;
     color: var(--abu);
