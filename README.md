@@ -1,4 +1,3 @@
-HEAD
 # Trailmate
 
 UTS Pemrograman Web 2026, NIM 252410102092.
@@ -23,7 +22,8 @@ Tampilan ponsel:
 
 ## Alur data
 
-1. Form di halaman login mengirim `username` ke `/dashboard` sebagai request parameter.2. `PageController` membaca `username`, lalu mengirimkannya ke view.
+1. Form di halaman login mengirim `username` ke `/dashboard` sebagai request parameter.
+2. `PageController` membaca `username`, lalu mengirimkannya ke view.
 3. Navbar menyertakan `username` di setiap tautan, sehingga Dashboard, Profil, dan Pengelolaan tetap mengenali pengguna.
 4. Halaman pengelolaan menampilkan array dari controller dengan `@foreach`.
 
@@ -37,6 +37,3 @@ php artisan serve
 ```
 
 Buka `http://127.0.0.1:8000`. Tes alur halaman dijalankan dengan `php artisan test`.
-=======
-# UTS_PWEB_252410102092
->>>>>>> bd22c40f3e63f8017f35e129dcaa85610b528829
